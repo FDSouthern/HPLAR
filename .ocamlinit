@@ -1,0 +1,8 @@
+#use "topfind"
+#require "camlp5"
+#camlp4o
+#use "init.ml"
+
+(* For propositional logic: *)
+let default_parser = parse_prop_formula
+
