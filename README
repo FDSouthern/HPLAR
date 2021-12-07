@@ -1,0 +1,2 @@
+Using opam to install camlp5 should be enough to make it work.
+You may also need ocamlfind, but if you install utop you'll get that anyway.

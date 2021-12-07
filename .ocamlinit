@@ -1,6 +1,5 @@
 #use "topfind"
 #require "camlp5"
-#camlp4o
 #use "init.ml"
 
 (* For propositional logic: *)
